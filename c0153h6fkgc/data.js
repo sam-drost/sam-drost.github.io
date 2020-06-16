@@ -551,6 +551,596 @@ var APP_DATA = {
         }
       ],
       "infoHotspots": []
+    },
+    {
+      "id": "0-post-demo-entry-1",
+      "name": "Post-Demo Entry (1)",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": 0.7245931442957172,
+        "pitch": 0.14268370369712002,
+        "fov": 1.2527145511035562
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.7341094394814309,
+          "pitch": 0.6459815139385725,
+          "rotation": 3.141592653589793,
+          "target": "1-post-demo-entry-2"
+        },
+        {
+          "yaw": 0.7079952150691522,
+          "pitch": 0.33663483145666007,
+          "rotation": 3.141592653589793,
+          "target": "2-post-demo-entry-3"
+        },
+        {
+          "yaw": -1.073784441618976,
+          "pitch": 0.5076078208441306,
+          "rotation": 3.141592653589793,
+          "target": "12-post-demo-front-room"
+        },
+        {
+          "yaw": 2.4994091965911096,
+          "pitch": 0.445455608514818,
+          "rotation": 3.141592653589793,
+          "target": "11-post-demo-bathroom"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "1-post-demo-entry-2",
+      "name": "Post-Demo Entry (2)",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": -2.956155185347356,
+        "pitch": 0.4401193193167483,
+        "fov": 1.2527145511035562
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.7797096122173475,
+          "pitch": 0.6659984214347219,
+          "rotation": 3.141592653589793,
+          "target": "2-post-demo-entry-3"
+        },
+        {
+          "yaw": 2.2599090231997634,
+          "pitch": 0.4789293522448368,
+          "rotation": 3.141592653589793,
+          "target": "0-post-demo-entry-1"
+        },
+        {
+          "yaw": -2.25789608199449,
+          "pitch": 0.6761729504619787,
+          "rotation": 3.141592653589793,
+          "target": "4-post-demo-dining-room-1"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "2-post-demo-entry-3",
+      "name": "Post-Demo Entry (3)",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": 1.6253075450674217,
+        "pitch": 0.3073338435418975,
+        "fov": 1.2527145511035562
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.559853279227534,
+          "pitch": 0.33346239526372656,
+          "rotation": 3.141592653589793,
+          "target": "0-post-demo-entry-1"
+        },
+        {
+          "yaw": 1.6004772095445787,
+          "pitch": 0.7360232720967819,
+          "rotation": 3.141592653589793,
+          "target": "1-post-demo-entry-2"
+        },
+        {
+          "yaw": -1.5058248896286894,
+          "pitch": 0.8778474515343273,
+          "rotation": 3.141592653589793,
+          "target": "7-post-demo-kitchen-2"
+        },
+        {
+          "yaw": 0.07737073834224084,
+          "pitch": 0.780444181073225,
+          "rotation": 3.141592653589793,
+          "target": "3-post-demo-closet"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "3-post-demo-closet",
+      "name": "Post-Demo Closet",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": 1.0096421621942433,
+        "pitch": 1.0322203447351956,
+        "fov": 1.2527145511035562
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.5577606416008543,
+          "pitch": 0.7309327048833598,
+          "rotation": 3.141592653589793,
+          "target": "2-post-demo-entry-3"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "4-post-demo-dining-room-1",
+      "name": "Post-Demo Dining Room (1)",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": -0.7697543945051244,
+        "pitch": 0.6981158709046156,
+        "fov": 1.2527145511035562
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.2708189208831655,
+          "pitch": 0.5873446065294132,
+          "rotation": 3.141592653589793,
+          "target": "5-post-demo-dining-room-2"
+        },
+        {
+          "yaw": -2.5798784319101156,
+          "pitch": 0.4391479725980769,
+          "rotation": 3.141592653589793,
+          "target": "12-post-demo-front-room"
+        },
+        {
+          "yaw": 2.0420910135831596,
+          "pitch": 0.667351397539786,
+          "rotation": 3.141592653589793,
+          "target": "1-post-demo-entry-2"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-post-demo-dining-room-2",
+      "name": "Post-Demo Dining Room (2)",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": 2.1879941325651977,
+        "pitch": 0.6052427794743203,
+        "fov": 1.2527145511035562
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.4154558895452958,
+          "pitch": 0.5449450502377573,
+          "rotation": 3.141592653589793,
+          "target": "4-post-demo-dining-room-1"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "6-post-demo-kitchen-1",
+      "name": "Post-Demo Kitchen (1)",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": -3.058830266479088,
+        "pitch": 0.3016913904443399,
+        "fov": 1.2527145511035562
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.4426194316367393,
+          "pitch": 0.5407876433246752,
+          "rotation": 3.141592653589793,
+          "target": "7-post-demo-kitchen-2"
+        },
+        {
+          "yaw": 2.4533360308345333,
+          "pitch": 0.24984245963736562,
+          "rotation": 3.141592653589793,
+          "target": "8-post-demo-kitchen-3"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "7-post-demo-kitchen-2",
+      "name": "Post-Demo Kitchen (2)",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": -0.9454061343489251,
+        "pitch": 0.31717222862146954,
+        "fov": 1.2527145511035562
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.2087041075065539,
+          "pitch": 0.4190459051707762,
+          "rotation": 3.141592653589793,
+          "target": "6-post-demo-kitchen-1"
+        },
+        {
+          "yaw": 2.7242560659242976,
+          "pitch": 0.9007953394505108,
+          "rotation": 3.141592653589793,
+          "target": "2-post-demo-entry-3"
+        },
+        {
+          "yaw": -1.8905489442525294,
+          "pitch": 0.45599976363554084,
+          "rotation": 3.141592653589793,
+          "target": "8-post-demo-kitchen-3"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "8-post-demo-kitchen-3",
+      "name": "Post-Demo Kitchen (3)",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.014910384888674244,
+          "pitch": 0.7788881024600336,
+          "rotation": 3.141592653589793,
+          "target": "5-post-demo-dining-room-2"
+        },
+        {
+          "yaw": -1.5310669220687227,
+          "pitch": 0.40647262957817,
+          "rotation": 3.141592653589793,
+          "target": "7-post-demo-kitchen-2"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "9-post-demo-garage-1",
+      "name": "Post-Demo Garage (1)",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": -0.02762492684182405,
+        "pitch": 0.5957658790858424,
+        "fov": 1.2527145511035562
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.1174494229553993,
+          "pitch": 0.6267556861138672,
+          "rotation": 3.141592653589793,
+          "target": "10-post-demo-garage-2"
+        },
+        {
+          "yaw": 2.2509578009549953,
+          "pitch": 0.11519467891907631,
+          "rotation": 10.995574287564278,
+          "target": "6-post-demo-kitchen-1"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "10-post-demo-garage-2",
+      "name": "Post-Demo Garage (2)",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": 3.0055203104957986,
+        "pitch": 0.5479114681165989,
+        "fov": 1.2527145511035562
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.9422350569156706,
+          "pitch": 0.577714792914465,
+          "rotation": 3.141592653589793,
+          "target": "9-post-demo-garage-1"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "11-post-demo-bathroom",
+      "name": "Post-Demo Bathroom",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": -2.4193840413982137,
+        "pitch": 0.08099785215477873,
+        "fov": 1.2527145511035562
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.481204401145197,
+          "pitch": 0.45118702919925546,
+          "rotation": 3.141592653589793,
+          "target": "0-post-demo-entry-1"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "12-post-demo-front-room",
+      "name": "Post-Demo Front Room",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.859927373242204,
+          "pitch": 0.4459330745818981,
+          "rotation": 3.141592653589793,
+          "target": "0-post-demo-entry-1"
+        },
+        {
+          "yaw": 2.3830321335662488,
+          "pitch": 0.33610020937331164,
+          "rotation": 3.141592653589793,
+          "target": "4-post-demo-dining-room-1"
+        }
+      ],
+      "infoHotspots": []
     }
   ],
   "name": "C0153H6FKGC",
